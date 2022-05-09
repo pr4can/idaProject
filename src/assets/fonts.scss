@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Inter-SemiBold;
+    font-display: swap;
+    src: url("@/assets/fonts/Inter-SemiBold.woff2") format("woff2"),
+        url("@/assets/fonts/Inter-SemiBold.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: SourceSansPro-Regular;
+    font-display: swap;
+    src: url("@/assets/fonts/SourceSansPro-Regular.woff2") format("woff2"),
+        url("@/assets/fonts/SourceSansPro-Regular.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: SourceSansPro-SemiBold;
+    font-display: swap;
+    src: url("@/assets/fonts/SourceSansPro-SemiBold.woff2") format("woff2"),
+        url("@/assets/fonts/SourceSansPro-SemiBold.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
